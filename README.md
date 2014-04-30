@@ -9,7 +9,7 @@ This style sheet is based off off [Josh Mandel's version of CDA.xsl with securit
 * Conversion of languages from codes to language names
 * Bug fixes
 
-Fixes and enhancements are more than welcome, please submit a pull request.
+Fixes and enhancements are more than welcome, please submit a pull request. Licensed under the Apache License, Version 2.0, see xsl file for details. 
 
 Here's some screenshots using one of the example CDA documents using the pretty stylesheet:
 
